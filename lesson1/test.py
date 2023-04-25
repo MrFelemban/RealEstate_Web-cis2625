@@ -1,0 +1,1 @@
+print('Welcome you to class CIS2625!')

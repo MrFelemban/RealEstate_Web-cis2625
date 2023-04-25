@@ -1,0 +1,109 @@
+	body {
+		background-color: #B0C4DE;
+	}
+
+	.myDiv {
+		border: 5px double #272727;
+		border-radius: 30px;
+		background-color: #F8F8FF;
+		text-align: center;
+		list-style-position: inside;
+		color: #272727;
+		box-shadow: -8px 9px #4682B4;
+		margin-left: : -50px;
+
+	}
+
+	img {
+		width: 161px;
+		height: 161px;
+		margin-left: 170%;
+		margin-top: 20px;
+		text-align: justify;
+		border-radius: 4px;
+		border: groove;
+
+
+	}
+
+	.Div_Name {
+
+		margin: 10px;
+		padding: 5px;
+		background: #FAF0E6;
+		font-size: 97%;
+		float: inherit;
+		margin-bottom: 1px;
+		list-style-position: inside;
+		border-radius: 25px;
+		text-align: center;
+		border: 2px solid #191970;
+		padding: 20px;
+		width: 120px;
+		height: 90px;
+	}
+
+	p {
+		font-family: serif;
+		font-size: 25px;
+		color: black;
+	}
+
+	#Hook {
+		font-family: sans-serif;
+		color: black;
+		font-size: 13px;
+		margin-left: 40px;
+		margin-top: 3px;
+		text-align: justify;
+	}
+
+	.Subject {
+		font-family: helvetica;
+		color: white;
+		text-align: justify;
+		margin-top: 4px;
+
+		text-shadow: 1px 1px 2px black, 0 0 25px blue, 0 0 5px darkblue;
+
+	}
+
+
+	.Skills>ul li {
+		color: black;
+		font-family: sans-serif;
+		font-size: 13px;
+
+	}
+
+	/* "Resume" word code*/
+	h2 {
+		color: #191970;
+		font-size: 19px;
+		font-family: Black Times;
+		margin-top: 1px;
+
+	}
+
+	#Education {
+		font-family: helvetica;
+		color: Black;
+		font-size: 13px;
+		margin-left: 40px;
+	}
+
+	.Course_Work {
+		font-family: sans-serif;
+		font-size: 13px;
+		margin-left: 65px;
+	}
+
+	#Courses {
+		margin-top: -9px;
+		margin-bottom: -10px;
+		margin-left: 35px;
+		font-size: 19px;
+		color: #CD853F;
+		text-shadow: 2px 0 black, 0 1px black, 1px 0 black, 0 -1px black;
+
+	}
